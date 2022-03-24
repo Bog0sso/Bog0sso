@@ -1,11 +1,16 @@
 # Profile
-Hi, I'm Bog0sso, a student in software engineering and information system.
+
+Hi, I'm **Bog0sso**, a student in software engineering and information system.
 # Technologies
+
 __Java__
+
 __NodeJS__
+
 __React__
 
 # Design
+
 I do care about design. Aside from pure, it determines the user experiences of your product.
 Here are some aspects I learnt in design:
 1.__Wireframing__
