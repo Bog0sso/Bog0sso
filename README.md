@@ -28,3 +28,9 @@ Here is my __Uxcel__ profile, I mainly learn UX/UI design here, it's a great pla
 # Contact 📫 
 
 You can join me by email sambe0002@gmail.com and linkedIn: https://www.linkedin.com/in/abdoulaye-sambe-3956331b2/
+
+# Communities
+I am present on 
+__Topcoder__:https://www.topcoder.com/members/Bog0sso
+__Codewars__:https://www.codewars.com/users/Bog0sso
+
