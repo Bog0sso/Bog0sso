@@ -10,6 +10,14 @@ __NodeJS__
 
 __React__
 
+__Kubernetes__
+
+__Docker__
+
+__Jenkins__
+
+Currently getting started with __RabbitMQ__ and __Ansible__
+
 # Design
 
 I do care about design. It determines the user experiences of your product, the whole idea he has of it.
