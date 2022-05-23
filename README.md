@@ -1,6 +1,6 @@
 # Profile
 
-Hi, I'm **Bog0sso**, a student in software engineering and information systems.
+Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in software engineering and information systems at **Ecole Supérieure Polytechnique**, located in **Dakar, Senegal** .
 
 # Technologies
 
