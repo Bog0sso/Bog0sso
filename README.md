@@ -12,7 +12,7 @@ __React__
 
 # Design
 
-I do care about design. Aside from pure, it determines the user experiences of your product.
+I do care about design. It determines the user experiences of your product, the whole idea he has of it.
 Here are some aspects I learnt in design:
 
 1.__Wireframing__
@@ -21,7 +21,7 @@ Here are some aspects I learnt in design:
 
 3.__Patterns and Anti-patterns__
 
-4.__Accessibility___
+4.__Accessibility__
 
 Here is my __Uxcel__ profile, I mainly learn UX/UI design here, it's a great place to get started. https://app.uxcel.com/ux/bog0sso
 
