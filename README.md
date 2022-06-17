@@ -1,7 +1,12 @@
 # Profile
 
 Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in software engineering and information systems at **Ecole Supérieure Polytechnique**, located in **Dakar, Senegal** .
+# Engineering
 
+  __System designing__
+  __DevOps__
+  __Full stack__
+  
 # Technologies
 
 __Java__
