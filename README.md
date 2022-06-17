@@ -32,13 +32,12 @@ Here are some aspects I learnt in design:
 
 1.__Wireframing__
 
-2.__Design process__
+2.__Prototyping__
 
-3.__Patterns and Anti-patterns__
+3.__Accessibility__
 
-4.__Accessibility__
+Here is my __Uxcel__ profile: https://app.uxcel.com/ux/bog0sso. I mainly learn UX/UI design here, it's a great place to get started. 
 
-Here is my __Uxcel__ profile, I mainly learn UX/UI design here, it's a great place to get started. https://app.uxcel.com/ux/bog0sso
 
 # Contact 📫 
 
@@ -47,5 +46,6 @@ You can join me by email sambe0002@gmail.com and linkedIn: https://www.linkedin.
 # Communities
 I am present on 
 __Topcoder__:https://www.topcoder.com/members/Bog0sso
+
 __Codewars__:https://www.codewars.com/users/Bog0sso
 
