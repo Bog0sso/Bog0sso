@@ -4,8 +4,10 @@ Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in software engine
 # Engineering
 
   __System designing__
+  
   __DevOps__
-  __Full stack__
+  
+  __Full stack programming__
   
 # Technologies
 
