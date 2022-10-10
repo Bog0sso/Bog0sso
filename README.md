@@ -45,7 +45,7 @@ You can join me by email sambe0002@gmail.com and linkedIn: https://www.linkedin.
 
 # Communities
 I am present on 
-__Topcoder__:https://www.topcoder.com/members/Bog0sso
+__Topcoder__: https://www.topcoder.com/members/Bog0sso
 
-__Codewars__:https://www.codewars.com/users/Bog0sso/badges/large
+__Codewars__: https://www.codewars.com/users/Bog0sso/
 
