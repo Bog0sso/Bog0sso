@@ -17,13 +17,15 @@ __NodeJS__
 
 __React__
 
+__Svelte__
+
 __Kubernetes__
 
 __Docker__
 
 __Jenkins__
 
-Currently getting started with __RabbitMQ__ and __Ansible__
+Currently on __Terraform__
 
 # Design
 
