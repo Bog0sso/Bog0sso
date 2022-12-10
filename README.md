@@ -1,12 +1,12 @@
 # Summary
-Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in 5 <sup>th</sup> grade software engineering and information systems at **Ecole Supérieure Polytechnique**, located in **Dakar, Senegal**.
+Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in 5<sup>th</sup> grade software engineering and information systems at **Ecole Supérieure Polytechnique**, located in **Dakar, Senegal**.
 
 # Technologies
-__Programming languages__: Java - Typescript - Javascript
+__Programming languages__: Java - Typescript - Javascript - Go<br>
 __Automation__: Jenkins CircleCI<br>
 __Virtualization__: Docker - Virtualbox<br>
 __Frontend__: Svelte - React<br>
-__Backend__: NodeJS - JEE - Go (on process)
+__Backend__: NodeJS - JEE - Go
 
 # Design
 Software is not only code, it is a whole product in which take part multiple kind of expertises.<br>
