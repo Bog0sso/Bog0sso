@@ -3,23 +3,23 @@ Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in 5 <sup>th</sup>
 
 # Technologies
 __Programming languages__: Java - Typescript - Javascript
-__Automation__: Jenkins CircleCI
-__Virtualization__: Docker - Virtualbox
-__Frontend__: Svelte - React
+__Automation__: Jenkins CircleCI<br>
+__Virtualization__: Docker - Virtualbox<br>
+__Frontend__: Svelte - React<br>
 __Backend__: NodeJS - JEE - Go (on process)
 
 # Design
-Software is not only code, it is a whole product in which take part multiple kind of expertises.
+Software is not only code, it is a whole product in which take part multiple kind of expertises.<br>
 __Design skills__: Accessibility - UI Design - Mobile Design - Web Design - Attention to Details
 
 __Uxcel__: https://app.uxcel.com/ux/bog0sso 
 
 
 # Contact
-__Email__:    sambe0002@gmail.com 
+__Email__:    sambe0002@gmail.com <br>
 __LinkedIn__: https://www.linkedin.com/in/Bog0sso
 
 # Coding communities
  
-__Topcoder__: https://www.topcoder.com/members/Bog0sso
+__Topcoder__: https://www.topcoder.com/members/Bog0sso<br>
 __Codewars__: https://www.codewars.com/users/Bog0sso
