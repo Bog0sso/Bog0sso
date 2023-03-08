@@ -8,7 +8,7 @@ __Virtualization__: Docker - Virtualbox<br>
 __Frontend__: Svelte - React<br>
 __Backend__: NodeJS - JEE - Go
 
-# Design
+# UI/UX Design
 Software is not only code, it is a whole product in which take part multiple kind of expertises.<br>
 __Design skills__: Accessibility - UI Design - Mobile Design - Web Design - Attention to Details
 
