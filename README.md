@@ -19,7 +19,7 @@ __Uxcel__: https://app.uxcel.com/ux/bog0sso
 __Email__:    sambe0002@gmail.com <br>
 __LinkedIn__: https://www.linkedin.com/in/Bog0sso
 
-# Coding communities
+# Communities
  
 __Topcoder__: https://www.topcoder.com/members/Bog0sso<br>
 __Codewars__: https://www.codewars.com/users/Bog0sso
