@@ -3,11 +3,11 @@ Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in 5<sup>th</sup> 
 
 # Skills
 __Programming languages__: Java - Typescript - Javascript - Go<br>
-__Automation__: Jenkins CircleCI<br>
+__Automation__: Jenkins - CircleCI - TravisCI <br>
 __Virtualization__: Docker - Virtualbox<br>
 __Frontend__: Svelte - React<br>
-__Backend__: NodeJS - JEE - Go <br>
-__System Design__: microservices - resiliency
+__Backend__: NodeJS - Jakarta EE - Go <br>
+__System Design__: microservices - design for failure 
 __Cloud Service Provider__: AWS
 
 # UI/UX Design
