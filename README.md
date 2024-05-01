@@ -1,9 +1,9 @@
 # Summary
-Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a student in 5<sup>th</sup> grade software engineering and information systems at **Ecole Supérieure Polytechnique**, located in **Dakar, Senegal**.
+Hi, my name is **Abdoulaye SAMBE** aka **Bog0sso**, a software engineer. I am a very passionate of code, I see it as the art of making machine speak. I started from 15 when I was in college with the famous **Start coding with C** from **Openclassrooms** course.
 
 # Skills
 __Programming languages__: Java - Typescript - Javascript - Go<br>
-__Automation__: Jenkins - CircleCI - TravisCI <br>
+__Automation__: Jenkins - CircleCI <br>
 __Virtualization__: Docker - Virtualbox<br>
 __Frontend__: Svelte - React<br>
 __Backend__: NodeJS - Jakarta EE - Go <br>
